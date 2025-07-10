@@ -1,0 +1,17 @@
+{
+  "name": "st.mewli.unity-utils",
+  "displayName": "MewUnityUtils",
+  "version": "0.0.0",
+  "unity": "6000.1",
+  "description": "Utilities for Unity Development",
+  "author": {
+    "name": "mewlist",
+    "url": "https://github.com/mewlist"
+  },
+
+  "keywords": [
+  ],
+
+  "dependencies": {
+  }
+}
